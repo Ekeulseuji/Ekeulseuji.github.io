@@ -23,9 +23,9 @@ repository               : "Ekeulseuji/Ekeulseuji.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xiaoya Gao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Learning too much leads to no specialization"
   location         : "Earth"
   employer         : "Peking University Health Sciences Center"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Ekeulseuji"
+  github           : "https://github.com/Ekeulseuji"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
