@@ -7,9 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 25fall MS student majoring in Medical Technology at [PKUHSC](https://imt.bjmu.edu.cn/index.htm). My current research projects cover a range of topics, including dynamical systems, deep learning, control theory, and computer vision. I'll be focusing more on **data science for omics** during the following years of my graduate study.
+I'm a current MS student majoring in Bioinformatics. (Expected graduation year: 2028)
+
+As you may know, my undergraduate major is Applied Math -- see that my past research projects cover a range of topics, including dynamical systems, deep learning, control theory, and computer vision. I'll be focusing more on **single-cell multi-omics** during the following years of my graduate study.
+
+If you are interested, contact me through gaoxiaoya@u.nus.edu.
+
+Thank you for wasting time on my words ♡
+
 
 <!--
+
+If you are interested, check my publications through [this link](https://orcid.org/0009-0001-8471-9105 "orcid").
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
